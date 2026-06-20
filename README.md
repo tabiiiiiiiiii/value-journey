@@ -5,7 +5,7 @@
 
 ## 使い方
 
-1. ブラウザで開く（公開URL：https://dan0919.github.io/value-journey/ ）
+1. ブラウザで開く（公開URL：https://ta5899100-creator.github.io/value-journey/ ）
 2. 表示される言葉を絞り込み、最終的に5つを選ぶ
 3. 生成されたプロンプトをコピーして、お好みのAIに貼り付ける
 
@@ -19,5 +19,5 @@
 
 ---
 
-© 2026 dan0919 — All rights reserved.
+© 2026 ta5899100-creator — All rights reserved.
 本リポジトリにライセンスは付与されていません（無断での利用・複製・再配布は許可していません）。
